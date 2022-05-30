@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pl-Pl">
+<head>
+    <meta charset="utf-8">
+    <meta name="Author" content="blaszkowksi" />
+      <link rel="Stylesheet" type="text/css" href="blaszkowski_z22.css" />
+</head>
+<body>
+  <p> Blaszkowski <br>
+      JProcesor jest układem odpowiedzialnym za przetwarzanie procesów obsługiwanych przez komputer. <br>
+    Często nazywa się go skrótem CPU, który pochodzi od angielskiej nazwy podzespołu.<br>
+    Procesor odpowiada za wszystkie procesy – te wyjątkowo proste, jak i te skomplikowane. Nawet ruch kursora jest przetwarzany przez CPU. </p>
+  <p title="gruby_blaszkowksi"> <br>
+      Zasilacz komputerowy (dalej nazywany po prostu "zasilaczem") stanowi tak naprawdę serce komputera <br> 
+    dostarcza prąd elektryczny do wszystkich podzespołów komputera, takich jak procesor,<br> 
+    płyta główna, pamięć, karta graficzna jak również do dysków twardych, czy napędów.</p>
+  <h1 id="dlawszystkich_blaszkowksi"> <br>
+      Karta graficzna (ang. graphics card) – jest podzespołem komputera,<br>
+      którego zadaniem jest przedstawienie danych cyfrowych w postaci grafiki komputerowej widocznej za pośrednictwem monitora lub innego urządzenia<br>
+      np. projektora<br>
+    <div id="dlawszystkich_blaszkowksi" <br>
+        Chłodzenie procesora – proces odprowadzania ciepła <br>
+         powierzchni procesora realizowany w celu umożliwienia jego <br>
+        normalnej pracy. Sam układ chłodzenia najczęściej składa się z <br>
+         elementu chłodzącego (radiatora) z zamontowanym na nim <br>
+        wentylatorem, zasilanym z płyty głównej.<br>
+         </div>
+</body>
+</html>
+<!--blaszkowksi-->
