@@ -21,7 +21,7 @@
       
     <!--początek bloku DIV 1-->
     <div style="background-color: gray; width: 11194px">
-        <span style="color: lime;font-size: 1.6cm;font-family: Arial;"> Znacznik DIV (blok 1) -->Mlodzieniak</span>
+        <span style="color: lime;font-size: 1.6cm;font-family: Arial;"> Znacznik DIV (blok 1) -->Blaszkowski</span>
         <br>
         <span style="font-size: 7mm;font-family: Times New Roman;">
     <b><u> Element blokowy (DIV)</u></b> jest elementem blokowym może zawierać wewnątrz siebie zwykły tekst, jak również inne elementy blokowe. Został on pomyślany do tworzenia obszerniejszych struktur. 
