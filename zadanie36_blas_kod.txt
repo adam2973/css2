@@ -1,1 +1,56 @@
-
+<!DOCTYPE html>
+<head>
+    <title>zadanie 36 błaszkowski </title>
+    <meta charset="utf-8" />
+    <style type="text/css">
+        body {
+            text-align: center;
+            margin: 80px;
+            background-color: #99ffff;
+        }
+        .center {
+            margin: auto;
+            width: 50%
+        }
+        div {
+            width: 350px;
+            border: 7px black groove;
+            background-color: #916e3d;
+        }
+        h1 {
+            margin: 32px;
+            border-top: 12px double #99ffe0;
+            border-bottom: 6px solid  yellow;
+            border-right: 5px dashed green;
+            border-left: 12px  double pink;
+            background-color: #ccff66;
+        } 
+        h2 {
+            margin: 40px;
+            border-top: 4px  dashed #e6a3ff;
+            border-bottom: 5px dotted #ad26a8;
+            border-right: 7px solid 	  #666699;
+            border-left: 7px dotted green;
+            background-color: #577dff
+        }
+        h3 {
+            margin: 35px;
+            border: 7px groove #cc6600;
+            background-color: #ccff99;
+        }
+    </style>
+</head>
+<body>
+    <div class="center">
+        <h1>Błaszkowski 3F1</h1>
+    </div>
+    <hr style="width:80%; height:12px; background-color:#f2ffcf">
+    <div class="center">
+        <h2>Błaszkowski 3F1</h2>
+    </div>
+    <hr style="width:79%; height:22px; background-color:#ff9999">
+    <div class="center">
+        <h3>Błaszkowski 3F1</h3>
+    </div>
+</body>
+</html>
