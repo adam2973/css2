@@ -1,1 +1,6 @@
-
+div#blok1_blaszkowski {background-color: 00ff00;width:620px;}
+div#blok2_blaszkowski {background-color: 00ff00;width:620px;}
+div#blok3_blaszkowski {background-color: 00ff00;width:620px;}
+div#blok1_blaszkowski:hover {background-color: blue;font-size:18mm;}
+div#blok2_blaszkowski:hover {background-color: yellow;font-size:18mm;}
+div#blok3_blaszkowski:hover {background-color: gold;font-size:18mm;}
