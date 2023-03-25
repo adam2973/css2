@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>Zadanie 66</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+	<ul>
+		<li><b><p>Pseudoelementem :first-line</b>
+		<p> Selektorem może być znacznik wyświetlany w bloku. CSS 2.1 dozwala zastosowanie dodatkowo do elementów inline-block, tytułów (podpisów) tabeli (<caption>...</caption>) oraz komórek tabeli (<td>...</td>). [Zobacz: Wstawianie stylów].
+
+			<p>Natomiast wyrazy "cecha" oraz "wartość" określają atrybuty elementu nadane poprzez style i zostaną opisane w dalszych rozdziałach.
+			<p>Polecenie raz zdefiniowane w arkuszu stylów, pozwala na nadanie określonych cech wszystkim pierwszym linijkom, znajdującym się wewnątrz znacznika, na który wskazuje selektor.
+
+			
+			
+			
+		
+		<li><b><p>Pseudoelementy: :after oraz :before</b>
+		<p> Jak sama nazwa mówi ::before to pseudo-element odnoszący się do przestrzeni przed zawartością danego elementu oraz ::after bezpośrednio po niej
+		
+		<li><b><p>Pseudoelement :first-letter</b>
+		<p> reprezentuje pierwszą literę w elemencie, jeśli nie jest ona poprzedzona inną zawartością (np. obrazami lub tabelami z typem wyświetlania inline ) w swojej linii.
+	</ul>
+</body>
+</html>
