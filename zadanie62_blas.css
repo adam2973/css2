@@ -1,1 +1,18 @@
+p#adam
+{
+font-size:21mm;
+color:yellow;
+}
 
+p:lang(pl)
+{
+font-size:28mm;
+color:red;
+}
+
+p:lang(en)
+{
+font-size:35mm;
+color:blue;
+
+}
